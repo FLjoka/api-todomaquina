@@ -1,0 +1,28 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Provincia = void 0;
+var Provincia;
+(function (Provincia) {
+    Provincia["BuenosAires"] = "Buenos Aires";
+    Provincia["Mendoza"] = "Mendoza";
+    Provincia["SanLuis"] = "San Luis";
+    Provincia["SanJuan"] = "San juan";
+    Provincia["LaRioja"] = "La Rioja";
+    Provincia["Tucuman"] = "Tucuman";
+    Provincia["Chaco"] = "Chaco";
+    Provincia["Misiones"] = "Misiones";
+    Provincia["Chubut"] = "Chubut";
+    Provincia["SantaCruz"] = "SantaCruz";
+    Provincia["EntreRios"] = "Entre Rios";
+    Provincia["Cordoba"] = "Cordoba";
+    Provincia["Neuquen"] = "Neuquen";
+    Provincia["SantaFe"] = "Santa Fe";
+    Provincia["Corrientes"] = "Corrientes";
+    Provincia["RioNegro"] = "Rio Negro";
+    Provincia["TierraDelFuego"] = "Tierra del Fuego";
+    Provincia["LaPampa"] = "La Pampa";
+    Provincia["SantiagoDelEstero"] = "Santiago del Estero";
+    Provincia["Jujuy"] = "Jujuy";
+    Provincia["Salta"] = "Salta";
+    Provincia["Catamarca"] = "Catamarca";
+})(Provincia = exports.Provincia || (exports.Provincia = {}));
